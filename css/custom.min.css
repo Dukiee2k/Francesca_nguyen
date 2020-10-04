@@ -41,7 +41,8 @@
 }
  p.p-intro{color:#FFD4DF;
     font-family:'Courgette', cursive;font-size:20px;
-    letter-spacing:2px;font-weight:700;text-transform:uppercase;
+    letter-spacing:2px;
+    font-weight:700;
     padding:10px 25px;background-color:#FFF;
     border:1px solid #a39f9c;
     -moz-border-radius:5px;
@@ -59,12 +60,17 @@
     color:#feb2a8;
     font-family:'Pacifico', cursive;
     letter-spacing:2px;
-    font: size 50px;
+    font: size 40px;
     font-weight:700
     ;position:relative
 }
  .content .post a h1:hover{color:#f9caa7;-webkit-transition:all .2s ease-in-out;-moz-transition:all .2s ease-in-out;-ms-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;transition:all .2s ease-in-out}
- .content .post p{color: #66545e;font-family:'Dancing Script', cursive;font-size:30px;font-weight:400}.content .post img{margin-bottom:20px}
+ .content .post p{
+    color: #66545e;
+    font-family:'Dancing Script', cursive;
+    font-size:20px;font-weight:400
+}
+.content .post img{margin-bottom:20px}
  .content .post hr{content:url(../img/separator.png);width:66px;height:7px;float:left;border:none}
  .content .post h1:before{content:url(../img/separator.png);position:absolute;top:-35px;left:1px}
  .in-content{margin-top:55px}
